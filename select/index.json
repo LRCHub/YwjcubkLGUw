@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "空っぽ",
+  "base_artist": "れん",
+  "createdAt": "2026-03-05T02:36:19.817076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空っぽ",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": true,
+      "path": "select/01_空っぽ_SPECIAL_OTHERS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空っぽ",
+      "artist": "れん",
+      "has_synced": true,
+      "path": "select/02_空っぽ_れん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空っぽ",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/03_空っぽ_miwa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空っぽ",
+      "artist": "れん",
+      "has_synced": false,
+      "path": "select/pl_01_空っぽ_れん.txt"
+    }
+  ]
+}
